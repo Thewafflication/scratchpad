@@ -63,6 +63,22 @@
 			Filter="cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx"
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
+			<File
+				RelativePath=".\clean.bat"
+				>
+			</File>
+			<File
+				RelativePath=".\main.c"
+				>
+			</File>
+			<File
+				RelativePath=".\make.bat"
+				>
+			</File>
+			<File
+				RelativePath=".\test.bat"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="Header Files"

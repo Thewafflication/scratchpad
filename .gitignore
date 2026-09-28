@@ -1,0 +1,17 @@
+# Build outputs
+*.exe
+*.dll
+*.obj
+*.o
+*.pdb
+*.ilk
+*.map
+
+# Visual Studio generated/user files
+*.ncb
+*.suo
+*.user
+
+# Build directories
+[Dd]ebug/
+[Rr]elease/
