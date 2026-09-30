@@ -12,6 +12,8 @@
 *.suo
 *.user
 
+.vscode/
+*~
 # Build directories
 [Dd]ebug/
 [Rr]elease/
